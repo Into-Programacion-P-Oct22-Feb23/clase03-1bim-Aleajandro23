@@ -3,20 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo09;
+package ejemplo01;
 
 /**
  *
  * @author SALA I
  */
-public class Ejemplo09 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Ejemplo03 {
     public static void main(String[] args) {
-        // ODO code application logic here
-  
+        System.out.println("Nueva leyenda");
     }
-    
 }
