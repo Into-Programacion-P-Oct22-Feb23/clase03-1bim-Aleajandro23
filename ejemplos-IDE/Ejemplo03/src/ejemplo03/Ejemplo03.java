@@ -42,9 +42,15 @@ public class Ejemplo03 {
         char variable8 = 'a';
         
         // tipo de dato boolean - boleano
-        
+        /*
+        sdasdasdas
+        f
+        */
+        // Se debe poner espacio
         boolean variable9 = false;
         boolean variable10 = true;
+        boolean variable11 = true;
+       // variable11 = variable9
     }
     
 }
